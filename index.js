@@ -96,15 +96,6 @@ app.delete("/books/:isbn", (req, res) => {
 //   res.end();
 // });
 
-// // app.set("view engine", "pug");
-
-// // app.get("/pug", (req, res) => {
-// //   res.render("template.pug", {
-// //     title: "Topic",
-// //     message: "EXPRESSJS",
-// //   });
-// // });
-
 // app.set("view engine", "pug");
 
 // app.get("/pug", (req, res) => {
